@@ -1,0 +1,125 @@
+{
+  "name": "Primera División 2017/18",
+  "clubs": [
+    {
+      "key": "barcelona",
+      "name": "Barcelona",
+      "code": "BAR",
+      "img":"http://content.sportslogos.net/logos/130/4016/thumbs/hy5fvvdkee83gg3r5ym22zr5o.gif"
+    },
+    {
+      "key": "espanyol",
+      "name": "Espanyol",
+      "code": "ESP",
+      "img":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Rcd_espanyol_logo.svg/150px-Rcd_espanyol_logo.svg.png"
+    },
+    {
+      "key": "madrid",
+      "name": "R. Madrid",
+      "code": "RMD",
+      "img":"http://content.sportslogos.net/logos/130/4017/thumbs/yfhezt5oyr0jbq29u4hp50w63.gif"
+    },
+    {
+      "key": "atletico",
+      "name": "Atlético",
+      "code": "ATL",
+      "img":"http://content.sportslogos.net/logos/130/4020/thumbs/402014442017.gif"
+    },
+    {
+      "key": "getafe",
+      "name": "Getafe",
+      "code": "GET",
+      "img":"http://content.sportslogos.net/logos/130/4025/thumbs/wyjvrxyhwca77k3fzef8nc957.gif"
+    },
+    {
+      "key": "sevilla",
+      "name": "Sevilla",
+      "code": "SEV",
+      "img":"http://content.sportslogos.net/logos/130/4034/thumbs/ce4732ploudlmfblce1rm3azn.gif"
+    },
+    {
+      "key": "valencia",
+      "name": "Valencia",
+      "code": "VAL",
+      "img":"http://content.sportslogos.net/logos/130/4034/thumbs/ce4732ploudlmfblce1rm3azn.gif"
+    },
+    {
+      "key": "levante",
+      "name": "Levante",
+      "code": "LEV",
+      "img":"http://content.sportslogos.net/logos/130/4026/thumbs/8ffugy3n51g0ihe8g55yrakmq.gif"
+    },
+    {
+      "key": "malaga",
+      "name": "Málaga",
+      "code": "MAG",
+      "img":"http://content.sportslogos.net/logos/130/4018/thumbs/hrhzmgl1gxoshl08h665ljjmh.gif"
+    },
+    {
+      "key": "athletic",
+      "name": "Athletic",
+      "code": "ATH",
+      "img":"http://content.sportslogos.net/logos/130/4021/thumbs/6meq6xzglav9fhi4yhfzqxaw4.gif"
+    },
+    {
+      "key": "celta",
+      "name": "Celta",
+      "code": "CEL",
+      "img":"http://content.sportslogos.net/logos/130/4022/thumbs/d1ktikkh37h4x9opmggax84ju.gif"
+    },
+    {
+      "key": "realsociedad",
+      "name": "R. Sociedad",
+      "code": "RSO",
+      "img":"http://content.sportslogos.net/logos/130/4031/thumbs/e8k432xe04mg17rb0hm7ykujl.gif"
+    },
+    {
+      "key": "deportivo",
+      "name": "Deportivo",
+      "code": "DEP",
+      "img":"http://content.sportslogos.net/logos/130/4023/thumbs/lspwi1bjub5ttlt6dq60lrlso.gif"
+    },
+    {
+      "key": "eibar",
+      "name": "Eibar",
+      "code": null,
+      "img":"http://content.sportslogos.net/logos/130/4031/thumbs/e8k432xe04mg17rb0hm7ykujl.gif"
+    },
+    {
+      "key": "betis",
+      "name": "Betis",
+      "code": "BET",
+      "img":"http://content.sportslogos.net/logos/130/4031/thumbs/e8k432xe04mg17rb0hm7ykujl.gif"
+    },
+    {
+      "key": "laspalmas",
+      "name": "Las Palmas",
+      "code": null,
+      "img":"http://content.sportslogos.net/logos/130/4031/thumbs/e8k432xe04mg17rb0hm7ykujl.gif"
+    },
+    {
+      "key": "villareal",
+      "name": "Villarreal CF",
+      "code": "VLL",
+      "img":"http://content.sportslogos.net/logos/130/4031/thumbs/e8k432xe04mg17rb0hm7ykujl.gif"
+    },
+    {
+      "key": "alaves",
+      "name": "Alavés",
+      "code": null,
+      "img":"http://content.sportslogos.net/logos/130/4031/thumbs/e8k432xe04mg17rb0hm7ykujl.gif"
+    },
+    {
+      "key": "girona",
+      "name": "Girona",
+      "code": null,
+      "img":"http://content.sportslogos.net/logos/130/4031/thumbs/e8k432xe04mg17rb0hm7ykujl.gif"
+    },
+    {
+      "key": "leganes",
+      "name": "Club Deportivo Leganés",
+      "code": null,
+      "img":"http://content.sportslogos.net/logos/130/4031/thumbs/e8k432xe04mg17rb0hm7ykujl.gif"
+    }
+  ]
+}
